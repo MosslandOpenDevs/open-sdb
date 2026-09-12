@@ -1,5 +1,9 @@
 # Open Software Defined Building (Open SDB)
 
+<!-- opendevs-badges:start -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-64748b?style=flat)](LICENSE)
+<!-- opendevs-badges:end -->
+
 [English](README.md) | **한국어**
 
 > **"차세대 빌딩 운영 시스템(OS)을 정의하다."**
@@ -7,8 +11,7 @@
 > 정적인 디지털 트윈을 넘어, 스스로 판단하고 제어하는 **Physical AI**를 향해.
 > 각 분야에서 발전해 온 전문 기술을 통합하여 Software Defined Building(SDB) 아키텍처를 연구합니다.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Incubation](https://img.shields.io/badge/Status-Incubation_&_Research_Notes-blue.svg)](https://github.com/MosslandOpenDevs/open-sdb)
+[![Status: Incubation](https://img.shields.io/badge/Status-Incubation_&_Research_Notes-blue.svg?style=flat)](https://github.com/MosslandOpenDevs/open-sdb)
 
 ## 📖 소개 (Introduction)
 **Open Software Defined Building (Open SDB)**은 **Mossland**가 주도하는 오픈소스 리서치 프로젝트입니다. 우리는 지능형 소프트웨어 아키텍처가 건물 운영의 핵심이 되는 **Software Defined Building (SDB)** 의 기반을 연구하고 구축하고자 합니다.

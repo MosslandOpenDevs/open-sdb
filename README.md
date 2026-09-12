@@ -1,5 +1,9 @@
 # Open Software Defined Building (Open SDB)
 
+<!-- opendevs-badges:start -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-64748b?style=flat)](LICENSE)
+<!-- opendevs-badges:end -->
+
 **English** | [한국어](README.ko.md)
 
 > **"Defining the Next-Generation Operating System for Buildings."**
@@ -7,8 +11,7 @@
 > Moving beyond static Digital Twins to fully autonomous **Physical AI**.
 > A research initiative to integrate specialized legacy domains into a unified Software Defined Building architecture.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Incubation](https://img.shields.io/badge/Status-Incubation_&_Research_Notes-blue.svg)](https://github.com/MosslandOpenDevs/open-sdb)
+[![Status: Incubation](https://img.shields.io/badge/Status-Incubation_&_Research_Notes-blue.svg?style=flat)](https://github.com/MosslandOpenDevs/open-sdb)
 
 ## 📖 Introduction
 **Open Software Defined Building (Open SDB)** is an open-source research initiative by **Mossland**. Our goal is to establish the foundation for **Software Defined Buildings (SDB)**, a paradigm where building operations are driven by intelligent software architecture.
